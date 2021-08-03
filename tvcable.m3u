@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/1624512242704/1624512242704.png" group-title="DOCUMENTALES",TVCABLE
-https://youtu.be/ccxFrGTEDs4
+#EXTINF:-1 group-title="DOCUMENTALES"
 
 #EXTINF:-1,Gourmet
 https://i6utj01uju0u40js.azcdn728.net:8443/hls/o040wr8q.m3u8?s=0GjWTNOmuo4T1rvHD51yOg&e=1628029762
@@ -36,8 +35,7 @@ https://i6utj01uju0u40js.azcdn728.net:8443/hls/1md5d55ngm.m3u8?s=lxjm2c_NpfJWAoW
 #EXTINF:-1,Animal Planet
 https://i6utj01uju0u40js.azcdn728.net:8443/hls/zfwban4sppn0.m3u8?s=vuOgeczY2BPH-VN0Hmk8uQ&e=1628030653
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/1624512242704/1624512242704.png" group-title="PELICULAS",Soyluishn
-https://youtu.be/ccxFrGTEDs4
+#EXTINF:-1 group-title="PELICULAS"
 
 #EXTINF:-1,HBO
 https://i6utj01uju0u40js.azcdn728.net:8443/hls/lbqtn3.m3u8?s=F9ep0CGxiFEnb-7zdMOFHw&e=1628030738
@@ -112,8 +110,7 @@ https://i6utj01uju0u40js.azcdn728.net:8443/hls/1zrltg3e.m3u8?s=lV6lKtA_AE804APp2
 #EXTINF:-1,Azteca Cinema
 https://i6utj01uju0u40js.azcdn728.net:8443/hls/nxlhxl.m3u8?s=PuXePf9CiWYY3aljR4Sdgw&e=1628031989
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/1624512242704/1624512242704.png" group-title="DEPORTES",Soyluishn
-https://youtu.be/ccxFrGTEDs4
+#EXTINF:-1 group-title="DEPORTES"
 
 #EXTINF:-1,ESPN
 https://i6utj01uju0u40js.azcdn728.net:8443/hls/yzfwp0ngkv.m3u8?s=8dA8HUXkvDZvVAois8HYzg&e=1628035437
@@ -160,8 +157,7 @@ http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/58695.ts
 #EXTINF:-1,GOL PERU
 http://195.181.163.39:80/DEP_GOL_TV/index.m3u8?token=913db64b59e91be1c950aed326a45de7
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/1624512242704/1624512242704.png" group-title="INFANTIL",Soyluishn
-https://youtu.be/ccxFrGTEDs4
+#EXTINF:-1 group-title="DIBUJOS"
 
 #EXTINF:-1,CARTOON NETWORK
 https://i6utj01uju0u40js.azcdn728.net:8443/hls/1feji.m3u8?s=oCtH1PCIGSuOENGKqIXt4Q&e=1628037362
@@ -175,3 +171,12 @@ https://i6utj01uju0u40js.azcdn728.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=qTTnIIu98C
 https://i6utj01uju0u40js.azcdn728.net:8443/hls/9efxxdu.m3u8?s=LQmL6N-WLY9pLh5fd733Cw&e=1628037459
 #EXTINF:-1,BOOMERANG
 https://i6utj01uju0u40js.azcdn728.net:8443/hls/hmnf8ejk.m3u8?s=3AeNBbF6BWxefwIgTXyH5w&e=1628037484
+
+#EXTINF:-1 group-title="24/7"
+
+#EXTINF:-1,LOS SIMPSONS
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1,NARUTO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
+#EXTINF:-1,NARUTO SHIPPUDEN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
